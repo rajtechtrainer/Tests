@@ -1,0 +1,6 @@
+D:\Delete\CodedUITestProject1\CodedUIScenario2\bin\Debug\CodedUIScenario2.dll
+D:\Delete\CodedUITestProject1\CodedUIScenario2\bin\Debug\CodedUIScenario2.pdb
+D:\Delete\CodedUITestProject1\CodedUIScenario2\obj\Debug\CodedUIScenario2.csprojAssemblyReference.cache
+D:\Delete\CodedUITestProject1\CodedUIScenario2\obj\Debug\CodedUIScenario2.csproj.CoreCompileInputs.cache
+D:\Delete\CodedUITestProject1\CodedUIScenario2\obj\Debug\CodedUIScenario2.dll
+D:\Delete\CodedUITestProject1\CodedUIScenario2\obj\Debug\CodedUIScenario2.pdb

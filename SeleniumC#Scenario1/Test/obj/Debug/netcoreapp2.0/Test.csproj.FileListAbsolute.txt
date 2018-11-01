@@ -1,0 +1,14 @@
+D:\UKtest\Test\Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\UKtest\Test\Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\UKtest\Test\Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\UKtest\Test\Test\bin\Debug\netcoreapp2.0\Test.deps.json
+D:\UKtest\Test\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.json
+D:\UKtest\Test\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.dev.json
+D:\UKtest\Test\Test\bin\Debug\netcoreapp2.0\Test.dll
+D:\UKtest\Test\Test\obj\Debug\netcoreapp2.0\Test.csprojAssemblyReference.cache
+D:\UKtest\Test\Test\obj\Debug\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+D:\UKtest\Test\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+D:\UKtest\Test\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfo.cs
+D:\UKtest\Test\Test\bin\Debug\netcoreapp2.0\Test.pdb
+D:\UKtest\Test\Test\obj\Debug\netcoreapp2.0\Test.dll
+D:\UKtest\Test\Test\obj\Debug\netcoreapp2.0\Test.pdb
